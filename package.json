@@ -1,0 +1,8 @@
+{
+  "name": "BioChain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:david30907d/BioChain.git",
+  "author": "davidtnfsh <davidtnfsh@gmail.com>",
+  "license": "GNU3.0"
+}
