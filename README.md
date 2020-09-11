@@ -16,4 +16,4 @@
 ## Run
 
 1. Run blockchain simulator client: `ganache-cli`
-2. 
+2. Deploy smart contract: `node index.js`
