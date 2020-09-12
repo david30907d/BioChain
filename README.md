@@ -17,3 +17,7 @@
 
 1. Run blockchain simulator client: `ganache-cli`
 2. Deploy smart contract: `node index.js`
+
+## Reference
+
+<https://www.ludu.co/course/ethereum/truffle>
